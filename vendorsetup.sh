@@ -1,1 +1,1 @@
-add_lunch_combo potato_wasabi-userdebug
+add_lunch_combo ancient_wasabi-userdebug

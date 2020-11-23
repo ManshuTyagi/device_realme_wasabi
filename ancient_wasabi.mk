@@ -27,11 +27,11 @@ TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_GAPPS_ARCH := arm64
 TARGET_INCLUDE_STOCK_ARCORE := true
 TARGET_INCLUDE_WIFI_EXT := true
-WHO_TO_BLAME := ashu1109
-$(call inherit-product, vendor/potato/config/common_full_phone.mk)
+WHO_TO_BLAME := ManshuTyagi
+$(call inherit-product, vendor/ancient/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := potato_wasabi
+PRODUCT_NAME := ancient_wasabi
 PRODUCT_DEVICE := wasabi
 PRODUCT_BRAND := Realme
 PRODUCT_MODEL := G90T Series
