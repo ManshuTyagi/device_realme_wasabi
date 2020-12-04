@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ancient_wasabi.mk
+    $(LOCAL_DIR)/fluid_wasabi.mk
     
     COMMON_LUNCH_CHOICES := \
 	fluid_wasabi-user \
