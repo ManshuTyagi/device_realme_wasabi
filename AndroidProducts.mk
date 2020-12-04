@@ -16,3 +16,8 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/ancient_wasabi.mk
+    
+    COMMON_LUNCH_CHOICES := \
+	fluid_wasabi-user \
+    fluid_wasabi-userdebug \
+    fluid_wasabi-eng
