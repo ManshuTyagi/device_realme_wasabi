@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/fluid_wasabi.mk
+    $(LOCAL_DIR)/aosp_wasabi.mk
     
     COMMON_LUNCH_CHOICES := \
-	fluid_wasabi-user \
-    fluid_wasabi-userdebug \
-    fluid_wasabi-eng
+	aosp_wasabi-user \
+    aosp_wasabi-userdebug \
+    aosp_wasabi-eng
